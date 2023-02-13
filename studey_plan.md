@@ -34,10 +34,17 @@
 
 ### week 3
 
-- why we need flow control => conditions and loops
+- why we need flow control => conditions, functions and loops
 - Boolean expersions
   - `>` , `<` , `<=` , `>=` , `==` , `!=`
   - `in`
   - `AND` , `OR`
 - `if` conditions
 - indentation & code blocks
+
+### week 4
+
+- lists `[]`
+- `for` loops
+- `range()` function
+- formated string `f"{}"`
