@@ -48,3 +48,15 @@
 - `for` loops
 - `range()` function
 - formated string `f"{}"`
+
+## Bounce concepts
+
+### Month 1
+
+- list comprehension
+- suporting functions
+  - `len()`
+  - `sum()`
+  - `max()`
+  - `min()`
+  - `sorted()` vs `.sort()`
