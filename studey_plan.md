@@ -60,3 +60,11 @@
   - `max()`
   - `min()`
   - `sorted()` vs `.sort()`
+
+## Console projects
+
+### Month 1
+
+- Basic calculator
+- Prime checker
+- Basic Statisic => mean, mode, median
